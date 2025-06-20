@@ -1,0 +1,7 @@
+.navbar {
+    position: absolute !important;
+}
+
+input[type=checkbox] {
+    width: 20px !important;
+}

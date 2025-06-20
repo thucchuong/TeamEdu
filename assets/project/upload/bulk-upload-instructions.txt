@@ -1,0 +1,33 @@
+Instructions for bulk upload
+
+-------------------------------------------------------------------
+projects data
+-------------------------------------------------------------------
+
+1. workspace id - You can find from workspace section - mandatory
+
+2. user id - You can find from users  section - optional
+
+3. client id - You can find from users  section - optional
+
+4. title - title of the projects - mandatory
+
+5. description - description of the projects - mandatory
+
+6. status - status about projects - optional
+
+7. budget - budget about projects - optional
+
+8. class - class about projects - optional
+
+9. priority - priority of the projects - mandatory
+
+10. task_count - task_count about tasks - optional
+
+11. comment_count - comment_count about comments - optional
+
+12. is_favorite - is_favorite about projects - optional
+
+13. start_date - start_date of the projects - mandatory
+
+14. end_date - end_date of the projects - mandatory

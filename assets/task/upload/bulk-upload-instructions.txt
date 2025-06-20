@@ -1,0 +1,29 @@
+Instructions for bulk upload
+
+-------------------------------------------------------------------
+tasks data
+-------------------------------------------------------------------
+
+1. workspace id - You can find from workspace section - mandatory
+
+2. project id - You can find from projects  section - optional
+
+3. user id - You can find from users  section - optional
+
+4. milestone id - You can find from milestones  section - optional
+
+5. title - title of the tasks - mandatory
+
+6. description - description of the tasks - mandatory
+
+7. priority - priority of the tasks - mandatory
+
+8. due_date - due_date of the tasks - mandatory 
+
+9. status - status about tasks - optional
+
+10. class - class about tasks - optional
+
+11. comment_count - comment_count about comments - optional
+
+12. start_date - start_date of the tasks - mandatory

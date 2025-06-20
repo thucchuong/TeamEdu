@@ -1,0 +1,34 @@
+Instructions for bulk update
+  * You can keep fields blank if you don't want to change
+-------------------------------------------------------------------
+projects data
+-------------------------------------------------------------------
+1. project id - ID of the project which you want to update. You can find from manage projects section - mandatory
+
+2. workspace id - You can find from workspace section - mandatory
+
+3. user id - You can find from users  section - optional
+
+4. client id - You can find from users  section - optional
+
+5. title - title of the projects - mandatory
+
+6. description - description of the projects - mandatory
+
+7. status - status about projects - optional
+
+8. budget - budget about projects - optional
+
+9. class - class about projects - optional
+
+10. priority - priority of the projects - mandatory
+
+11. task_count - task_count about tasks - optional
+
+12. comment_count - comment_count about comments - optional
+
+13. is_favorite - is_favorite about projects - optional
+
+14. start_date - start_date of the projects - mandatory
+
+15. end_date - end_date of the projects - mandatory

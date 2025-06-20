@@ -1,0 +1,30 @@
+Instructions for bulk update
+  * You can keep fields blank if you don't want to change
+-------------------------------------------------------------------
+tasks data
+-------------------------------------------------------------------
+1. id - ID of the task which you want to update. You can find from manage tasks section - mandatory
+
+2. workspace id - You can find from workspace section - mandatory
+
+3. project id - You can find from projects  section - optional
+
+4. user id - You can find from users  section - optional
+
+5. milestone id - You can find from milestones  section - optional
+
+6. title - title of the tasks - mandatory
+
+7. description - description of the tasks - mandatory
+
+8. priority - priority of the tasks - mandatory
+
+9. due_date - due_date of the tasks - mandatory 
+
+10. status - status about tasks - optional
+
+11. class - class about tasks - optional
+
+12. comment_count - comment_count about comments - optional
+
+13. start_date - start_date of the tasks - mandatory
